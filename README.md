@@ -1,4 +1,4 @@
-# **_Atividade Prática_**
+# **_Atividade Prática_** <img src="https://github.com/user-attachments/assets/03fd1085-ff9d-47f4-b58e-f0b47ce8bb03" width="60" />
 <ol>
 <li>Git pode ser dito como um repositório de código, que é um diretório onde os arquivos de código fonte do seu projeto e o histórico completo das revisões ficam armazenados.</li>
 <li>Local temporário onde são armazenadas todas as alterações que serão adicionadas no próximo commit.</li>
